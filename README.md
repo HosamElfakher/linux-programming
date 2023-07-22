@@ -5,13 +5,14 @@ Below is an overview of the covered topics presented in a hierarchical tree form
 - Signals 
          - Basic signal functionality
          - Signal masking 
-         
+         - sigaction
          
          
          
 Compiling the Programs
 To successfully compile the programs, please follow these steps:
 
+- Install GCC tool chain and make 
 - Navigate to the directory of interest corresponding to the topic you wish to explore.
 - Execute the following command: make <program_name>
 
