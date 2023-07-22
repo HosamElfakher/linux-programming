@@ -6,7 +6,7 @@ Below is an overview of the covered topics presented in a hierarchical tree form
          1.1- Basic signal functionality
          1.2- Signal masking 
          1.3- sigaction
-         
+2- Timers         
          
          
          

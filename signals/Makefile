@@ -9,5 +9,6 @@ signal_masking : signal_masking.c
 sigaction : sigaction.c 
 	${CC} -o $@ sigaction.c
 
+
 clean : 
 	${RM} ${EXE} *.o
