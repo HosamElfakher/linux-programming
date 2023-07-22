@@ -2,6 +2,7 @@
 Welcome to the Linux Programming repository! This repository serves as a comprehensive demonstration of Linux programming fundamentals. The repository is organized into directories, meticulously categorized according to the main Linux topics. Each directory contains source files for different sub-topics and a make file to facilitate easy compilation.
 
 Below is an overview of the covered topics presented in a hierarchical tree form:
+
 1- Signals 
          1.1- Basic signal functionality
          1.2- Signal masking 
