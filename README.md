@@ -6,15 +6,21 @@ Below is an overview of the covered topics presented in a hierarchical tree form
 1- Signals                                                                                 
          1.1- Basic signal functionality                                                   
          1.2- Signal masking                                                               
-         1.3- sigaction                                                                    
-2- Timers         
+         1.3- sigaction   
+                                                                          
+2- Timers
+         
 3- Process                                                                         
           3.1- fork basics                                                         
           3.2- Orphans process                                                     
           3.3- Zombie process                                                      
-          3.4- signal and process                                                          
+          3.4- signal and process 
+
+4-Threads
+          4.1- thread creation                                                            
+          4.2- mutex synchronization                                                       
+
           
-         
 Compiling the Programs
 To successfully compile the programs, please follow these steps:
 
