@@ -19,7 +19,9 @@ Below is an overview of the covered topics presented in a hierarchical tree form
 4-Threads                                                                                  
           4.1- thread creation                                                            
           4.2- mutex synchronization                                                       
+          4.3- Conditional variables                                                       
 
+          
 
 Compiling the Programs
 To successfully compile the programs, please follow these steps:
