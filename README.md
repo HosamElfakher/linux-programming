@@ -16,10 +16,12 @@ Below is an overview of the covered topics presented in a hierarchical tree form
           3.3- Zombie process                                                      
           3.4- signal and process 
 
-4-Threads                                                                                  
+4- Threads                                                                                
           4.1- thread creation                                                            
           4.2- mutex synchronization                                                       
           4.3- Conditional variables                                                       
+
+5- Schedular policy and priorities                                                         
 
           
 
