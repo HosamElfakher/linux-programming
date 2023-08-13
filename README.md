@@ -21,7 +21,10 @@ Below is an overview of the covered topics presented in a hierarchical tree form
           4.2- mutex synchronization                                                       
           4.3- Conditional variables                                                       
 
-5- Schedular policy and priorities                                                         
+5- Schedular policy and priorities                      
+
+6- daemon                                                                                                     
+
 
           
 
