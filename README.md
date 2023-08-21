@@ -23,11 +23,11 @@ Below is an overview of the covered topics presented in a hierarchical tree form
 
 5- Schedular policy and priorities                      
 
-6- daemon                                                                                                     
+6- daemon                      
 
+7- pipe                     
 
-          
-
+                                                                                                                                                                                    
 Compiling the Programs
 To successfully compile the programs, please follow these steps:
 
