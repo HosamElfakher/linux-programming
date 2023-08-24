@@ -25,9 +25,11 @@ Below is an overview of the covered topics presented in a hierarchical tree form
 
 6- daemon                      
 
-7- pipe                     
+7- pipe                   
+          7.1- pipe basics                                                     
+          7.2- Tie pipe to execute shell commands                                                
 
-                                                                                                                                                                                    
+                                                                      
 Compiling the Programs
 To successfully compile the programs, please follow these steps:
 
