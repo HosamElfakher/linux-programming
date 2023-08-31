@@ -29,7 +29,9 @@ Below is an overview of the covered topics presented in a hierarchical tree form
           7.1- pipe basics                                                     
           7.2- Tie pipe to execute shell commands                                                
 
-                                                                      
+8- POSIX IPC                   
+          8.1- MesQueue  
+
 Compiling the Programs
 To successfully compile the programs, please follow these steps:
 
